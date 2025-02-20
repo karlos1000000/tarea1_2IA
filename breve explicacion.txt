@@ -1,0 +1,4 @@
+Con el uso de la libreria pandas, se resolvieron los incisos requeridos en la tarea. El primer bloque de codigo es la lectura de los archivos, y los demas son los incisos de cada ejercicio por archivo csv.
+Los resultados se muestran al ejecutar cada bloque de codigo.
+Es necesario ejecutar el primero para poder ver los resultados de los demas ya que se debe hacer lectura de los archivos para poder manipularlos.
+Los metodos mean, idmax, idmin, groupby, count, sum y sort_values fueron utiles para la resolucion de la tarea.
